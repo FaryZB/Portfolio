@@ -67,7 +67,10 @@ h1 em {
   font-family: Georgia, serif;
   font-weight: normal;
 }
-
+em {
+  font-style: georgia;
+  color: #ffffff;
+}
 .intro {
   max-width: 580px;
   color: #f5f3ef;
