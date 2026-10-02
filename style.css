@@ -33,12 +33,14 @@ header {
 nav {
   display: flex;
   gap: 30px;
+  color: #fdfdfd;
 }
 
 nav a,
 header > a:last-child {
   font-size: 13px;
   text-decoration: none;
+  color: #fdfdfd;
 }
 
 .home {
